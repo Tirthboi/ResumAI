@@ -15,4 +15,4 @@ Natural Language Processing (NLP) and Machine Learning (ML) techniques to analyz
 Contributions to ResumAI are welcome! To contribute, please fork this repository and submit a pull request with your changes.
 License
 
-## This project is licensed under the GNU Public License v3.0. See the LICENSE file for details.
+This project is licensed under the GNU Public License v3.0. See the LICENSE file for details.
